@@ -1,0 +1,260 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  font-size: 14px;
+  line-height: 24px;
+  font-family: 'Lato', sans-serif;
+}
+h1, h2, h3, h4, h5, h6{
+  font-family: 'Titillium Web', sans-serif;
+}
+a, a:hover{
+  text-decoration: none;
+}
+/* ---CSS START FROM HERE----- */
+.container{
+  width: 1140px;
+  margin: 0px auto;
+}
+.row{
+  width: 100%;
+  float: left;
+}
+.col-lg-3{
+  width: 25%;
+  float: left;
+}
+.col-lg-4{
+  width: 33.33%;
+  float: left;
+
+}
+.col-lg-9{
+  width: 75%;
+  float: left;
+}
+.col-lg-12{
+  width: 100%;
+  float: left;
+}
+.header{
+  width: 100%;
+  float: left;
+  background: #86509c ;
+  padding: 20px 0px;
+}
+.header .logo{
+  float: left;
+  margin: 0 0 0 50px;
+}
+.header .logo img{
+    width: 90px;
+}
+.header .menu{
+  text-align: right;
+  margin: 0 50px 0 0 ;
+}
+.header .menu ul{
+  display: block;
+
+}
+.header .menu ul li{
+  display: inline-block;
+  text-decoration: none;
+  margin: 5px 0 0;
+}
+.header .menu ul li a{
+  font-size: 16px;
+  text-transform: uppercase;
+  color: #fff;
+  margin: 0 10px ;
+  padding: 5px 10px;
+}
+.header .menu ul li a:hover{
+  font-size: 16px;
+  color: #fff;
+  background-color: #623a79;
+}
+.header .menu ul li a:hover, .header .menu ul li a:focus{
+  font-size: 16px;
+  color: #fff;
+  background-color: #623a79;
+}
+.bannar{
+  width: 100%;
+  float: left;
+  text-align: center;
+  background-color: #86509c;
+  padding: 90px 0px;
+}
+.bannar h3{
+  font-size: 38px;
+  line-height: 48px;
+  font-weight: 600;
+  color: #fff;
+
+}
+.bannar button{
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+  background-color: #EC7E49;
+  text-transform: uppercase;
+  margin-top: 40px;
+  padding: 20px 60px;
+  border: 1px solid #EC7E49 ;
+  border-radius: 3px;
+  transition: 1s;
+
+}
+.bannar button:hover{
+  letter-spacing: 2px;
+}
+.feature{
+  width: 100%;
+  float: left;
+  background-color: #17C1A4;
+  margin: 0px auto;
+  padding: 50px 0px;
+}
+.feature .box{
+  width: 100%;
+  text-align: center;
+  margin: 45px 0px;
+}
+.feature .box h3{
+  font-size: 38px;
+  line-height: 48px;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #fff;
+}
+.feature .box img{
+  width: 80px;
+  height: 4px;
+}
+.feature .box p{
+  font-size: 16px;
+  line-height: 26px;
+  color: #fff;
+  padding: 8px 0px 0px;
+}
+
+.feature .rabeya{
+  width: 90%;
+  margin: 8px auto;
+}
+.feature .rabeya .inner-box {
+  width: 100%;
+  text-align: center;
+  float: left;
+  padding: 30px 0px;
+}
+.feature .rabeya .inner-box img{
+  width: 95px;
+  height: 80px;
+}
+.feature .rabeya .inner-box h4{
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin: 40px 0px 10px;
+  color: #fff;
+}
+.feature .rabeya .inner-box p{
+  font-size: 16px;
+  line-height: 26px;
+  color: #fff;
+  padding: 10px 0px 0px;
+}
+.footer{
+  width: 100%;
+  float: left;
+  text-align: center;
+  background-color: #86509c ;
+  padding: 15px 0px;
+}
+.footer p{
+  font-size: 16px;
+  color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .header{
+  width: 100%;
+  float: left;
+}
+.hd{
+  height: 100px;
+  background-color: #08c;
+}
+.slider{
+  width: 100%;
+  float: left;
+}
+.sl{
+  height: 400px;
+  background-color: blue;
+}
+.banner{
+  width: 100%;
+  float: left;
+}
+.cl1{
+  height: 300px;
+  background-color: green;
+
+}
+.cl2{
+  height: 300px;
+  background-color: red;
+
+}
+.cl3{
+  height: 300px;
+  background-color: yellow;
+
+}
+.footer{
+  width: 100%;
+  float: left;
+}
+.ft{
+  height: 80px;
+  background-color: #08c;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
